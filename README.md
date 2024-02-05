@@ -1,6 +1,6 @@
 # Car-Sales-Analysis-Dashboard
 
-##[Live Dashboard Link](https://www.novypro.com/project/car-sales-analysis-dashboard-3)
+[Live Dashboard Link](https://www.novypro.com/project/car-sales-analysis-dashboard-3)
 
 #
 ### Table of content
