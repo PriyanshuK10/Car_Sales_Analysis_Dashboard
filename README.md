@@ -57,6 +57,9 @@ The dashboard should provide real-time insights into key performance indicators 
   - YOY Growth in Cars Sold
 #
 
+![Car Sales Overview](https://github.com/PriyanshuK10/Car_Sales_Analysis_Dashboard/assets/156614225/9b63c47e-4d92-4490-b76c-30ff6a20cca5)
+
+
 ### Problem Statement 2: Charts Requirement
 1. YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
 
@@ -68,6 +71,9 @@ The dashboard should provide real-time insights into key performance indicators 
 
 5. Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 #
+
+![Cae Sales Details](https://github.com/PriyanshuK10/Car_Sales_Analysis_Dashboard/assets/156614225/3540f740-d624-4a9c-9d8c-7e1c1192220c)
+
 
 ### Key Findings/Insights
 
